@@ -1,0 +1,10 @@
+{
+  "description": "Enables engineering managers to track team progress, prioritize tasks, and identify blockers with AI-driven summaries and actionable insights in one platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
